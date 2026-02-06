@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ade
+# Hi there 👋, I'm Ibrahim Adebayo
 
 🎓 **B.Tech in Computer Science**  
 💡 Passionate about **Software Engineering**, **Deep Learning**, and **Computer Vision**  
